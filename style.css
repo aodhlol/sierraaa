@@ -1,0 +1,67 @@
+h1{
+    color:rgb(254, 165, 180)
+}
+
+h2{
+    color:blueviolet
+}
+
+section{
+    color:darksalmon;
+    
+}
+
+
+.balls {
+    width: 300px;
+}
+
+.balls2 {
+    width: 300px;
+}
+
+.balls3 {
+    width: 300px;
+}
+
+.balls4 {
+    width: 300px;
+}
+
+.balls5 {
+    width: 300px;
+}
+
+.balls6 {
+    width: 300px;
+}
+
+.balls7 {
+    width: 300px;
+}
+
+.Sierra {
+    width: 300px;
+}
+
+.aj {
+    width: 360px;
+    position: relative;
+    margin-top: 300px;
+}
+
+.heart {
+    width: 700px;
+    position: relative;
+    right: 700px;
+    nav-down: 500px;
+}
+
+.bow {
+    display: inline-flex;
+}
+
+.bow {
+    margin: auto 5px;
+    float: left;
+}
